@@ -1,0 +1,7 @@
+bertopic==0.16.0
+numpy==1.24.3
+plotly==5.9.0
+plotly_express==0.4.1
+streamlit==1.29.0
+streamlit_extras==0.3.6
+textblob==0.17.1
