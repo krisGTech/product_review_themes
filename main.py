@@ -2,7 +2,7 @@ import streamlit as st
 from streamlit_extras.metric_cards import style_metric_cards
 import plotly_express as px
 import plotly 
-#from bertopic import BERTopic
+from bertopic import BERTopic
 from textblob import TextBlob
 import plotly.graph_objects as go
 from plotly.graph_objects import Layout
