@@ -1,5 +1,3 @@
-#https://www.geeksforgeeks.org/create-a-simple-sentiment-analysis-webapp-using-streamlit/
-#https://www.analyticsvidhya.com/blog/2020/12/streamlit-web-api-for-nlp-tweet-sentiment-analysis/
 import streamlit as st 
 from streamlit_extras.metric_cards import style_metric_cards
 import plotly_express as px
@@ -44,7 +42,7 @@ At D3.ai, innovation meets insight, and we are thrilled to unveil our latest too
 
 
 
-#review_model = BERTopic.load('handoff_tp_model_v2')
+
 text = st.text_area("Please Enter Review Text Here ...")
 
 
