@@ -9,7 +9,7 @@ from plotly.graph_objects import Layout
 import numpy as np 
 import time 
 # Import Model 
-review_model = BERTopic.load('product_reviews_tp_model')
+#review_model = BERTopic.load('product_reviews_tp_model')
 
 st.title("Customer Product Review Themes Prediction") 
 
